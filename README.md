@@ -8,7 +8,7 @@ O sistema permite cadastrar, consultar, alterar e excluir usuários e ocorrênci
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](docs/Diagrama_de_Classes.png)
+![Diagrama de Classes](docs/DiagramadeClasses.drawio.png)
 
 ## Tecnologias utilizadas
 
